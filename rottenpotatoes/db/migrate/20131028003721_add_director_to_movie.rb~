@@ -1,0 +1,4 @@
+class AddDirectorToMovie < ActiveRecord::Migration
+  def change
+  end
+end
